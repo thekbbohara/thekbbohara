@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=thekbbohara&icon=2&color=9)](https://visitcount.itsvg.in)
 👨‍💻Frontend: Things didn’t work out between us.<br>🔧Backend: Always keeps me intrigued.<br>🎯Goal: Full Stack Engineer.
 
 <!--
@@ -17,7 +18,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=thekbbohara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thekbbohara&icon=2&color=9)](https://visitcount.itsvg.in)
+
 <!--
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/thekbbohara) 
