@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=thekbbohara&icon=2&color=9)](https://visitcount.itsvg.in)
+---
 👨‍💻Frontend: Things didn’t work out between us.<br>🔧Backend: Always keeps me intrigued.<br>🎯Goal: Full Stack Engineer.
 
 <!--
