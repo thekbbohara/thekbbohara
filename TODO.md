@@ -1,1 +1,2 @@
-[ ] OpenCharity
+# Projects todo.
+- [ ] OpenCharity
