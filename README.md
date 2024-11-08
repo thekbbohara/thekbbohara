@@ -8,7 +8,7 @@
 [![Next JS](https://img.shields.io/badge/Next%20js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://kbbohara.com.np/projects?filter=%5B%22nextjs%22%5D)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://kbbohara.com.np/projects?filter=%5B%22nodejs%22%5D)
 ![Zustand](https://img.shields.io/badge/zustand-2B4C80?style=for-the-badge&logo=zustand&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://kbbohara.com.np/projects?filter=%5B%22express%22%5D)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
